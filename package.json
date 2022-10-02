@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/grouls/intro_to_ts#readme",
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^0.27.2",
+    "ts-node": "^10.9.1"
   }
 }
